@@ -1,6 +1,5 @@
 package org.ies.tierno;
 
-import org.ies.tierno.model.Client;
 
 import java.util.Scanner;
 
