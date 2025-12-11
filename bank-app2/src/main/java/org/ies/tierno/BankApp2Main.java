@@ -1,8 +1,5 @@
 package org.ies.tierno;
 
-
-
-
 import org.ies.tierno.app.BankApp2;
 
 import java.util.Scanner;
