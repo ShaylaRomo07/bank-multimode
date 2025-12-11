@@ -1,6 +1,5 @@
 package org.ies.tierno;
 
-
 import java.util.Scanner;
 
 public class ClientReader {
