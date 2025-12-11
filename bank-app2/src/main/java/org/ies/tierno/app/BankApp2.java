@@ -1,7 +1,11 @@
-package org.ies.tierno;
+package org.ies.tierno.app;
 
 
 
+
+import org.ies.tierno.Account;
+import org.ies.tierno.Bank;
+import org.ies.tierno.BankReader;
 
 import java.util.Scanner;
 

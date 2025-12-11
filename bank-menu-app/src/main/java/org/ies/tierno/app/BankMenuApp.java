@@ -1,8 +1,11 @@
-package org.ies.tierno;
+package org.ies.tierno.app;
 
+import org.ies.tierno.Account;
+import org.ies.tierno.Bank;
+import org.ies.tierno.BankReader;
+import org.ies.tierno.Client;
 
 import java.util.Scanner;
-
 
 public class BankMenuApp {
     private final Scanner scanner;
