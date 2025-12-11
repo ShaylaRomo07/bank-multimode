@@ -14,7 +14,7 @@ public class BankReader {
         this.accountReader = accountReader;
     }
 
-    public Bank read() {
+    public org.ies.tierno.Bank read() {
         System.out.println("Información del banco");
         System.out.println("Nombre del banco");
         String nameBack = scanner.nextLine();

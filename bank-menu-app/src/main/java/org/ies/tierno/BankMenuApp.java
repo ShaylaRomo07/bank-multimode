@@ -1,10 +1,6 @@
 package org.ies.tierno;
 
 
-import org.ies.tierno.model.Account;
-import org.ies.tierno.model.Bank;
-import org.ies.tierno.model.Client;
-
 import java.util.Scanner;
 
 
